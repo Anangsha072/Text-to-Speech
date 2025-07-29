@@ -11,3 +11,4 @@ AI reads aloud the text using the Web Speech API 🎙️
  Download as Audio: Convert text to an MP3 file for downloading
  Supports different voices & languages 
 
+to view this application visit https://astounding-muffin-5acc68.netlify.app/
